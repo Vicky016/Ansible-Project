@@ -84,4 +84,6 @@ ansible-playbook deploy-techmax.yml
 - Adjust security group settings and key pair names as needed.
 - The provided playbook deploys a sample website. Modify it according to your project requirements.
 
+For a visual reference, watch the [YouTube video](https://youtu.be/Z6YGH0HVejE?si=jQ3S9ycAKlheEvmr) that complements this guide.
+
 Congratulations! You have successfully set up an Ansible environment and configured three servers using Ansible playbooks.
